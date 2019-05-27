@@ -1,0 +1,10 @@
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\bin\Debug\BeliefRevisionAssignment.exe.config
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\bin\Debug\BeliefRevisionAssignment.exe
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\bin\Debug\BeliefRevisionAssignment.pdb
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\bin\Debug\System.ValueTuple.dll
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\bin\Debug\System.ValueTuple.xml
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\obj\Debug\BeliefRevisionAssignment.csprojAssemblyReference.cache
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\obj\Debug\BeliefRevisionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\obj\Debug\BeliefRevisionAssignment.csproj.CopyComplete
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\obj\Debug\BeliefRevisionAssignment.exe
+C:\Users\asco\source\repos\BeliefRevisionAssignment\BeliefRevisionAssignment\obj\Debug\BeliefRevisionAssignment.pdb
